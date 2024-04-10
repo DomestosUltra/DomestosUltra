@@ -10,5 +10,6 @@ ML/DS Developer
 - PostgreSQL, SQLite, SQLAlchemy
 - Git
 
-<p align="center"><b>My Leetcode Stats</b><br>
- ![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
+## <p align="center"><b>My Leetcode Stats</b><br>
+ 
+![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
