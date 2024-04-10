@@ -1,6 +1,5 @@
 ## Hello to my GitHub profile!🫶🏻
 
-# About me
 ## ML/DS Developer🤖
 
 # My stack
