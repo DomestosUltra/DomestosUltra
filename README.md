@@ -1,15 +1,15 @@
-### Hello to my GitHub profile!🫶🏻
+## Hello to my GitHub profile!🫶🏻
 
-## About me
-# ML/DS Developer🤖
+# About me
+## ML/DS Developer🤖
 
-## My stack
+# My stack
 - Python
 - Jupyter Notebook
 - Scikit-learn, PyTorch, TensorFlow
 - PostgreSQL, SQLite, SQLAlchemy
 - Git
 
-## My Leetcode Stats
+# My Leetcode Stats
  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
