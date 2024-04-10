@@ -1,7 +1,7 @@
-### Приветствую на моем GitHub профиле!
+### Hello to my GitHub profile!🫶🏻
 
 ## About me
-ML/DS Developer
+# ML/DS Developer🤖
 
 ## My stack
 - Python
@@ -10,6 +10,6 @@ ML/DS Developer
 - PostgreSQL, SQLite, SQLAlchemy
 - Git
 
-## <p align="center"><b>My Leetcode Stats</b><br>
+## My Leetcode Stats
  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
