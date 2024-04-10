@@ -1,12 +1,14 @@
 ### Приветствую на моем GitHub профиле!
 
-## Обо мне
+## About me
 ML/DS Developer
 
-## Мой стек
-- Python, SQL
-- Scikit-learn, TensorFlow, PyTorch
-- Jupyter Notebook, Git
-- PostgreSQL, SQLAlchemy
-  
+## My stack
+- Python
+- Jupyter Notebook
+- Scikit-learn, PyTorch, TensorFlow
+- PostgreSQL, SQLite, SQLAlchemy
+- Git
+
+<p align="center"><b>My Leetcode Stats</b><br>
  ![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
