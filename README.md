@@ -9,4 +9,4 @@ ML/DS Developer
 - Jupyter Notebook, Git
 - PostgreSQL, SQLAlchemy
   
- ![Leetcode Stats](https://leetcode.com/DomestosUltra/)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/DomestosUltra)
