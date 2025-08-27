@@ -1,13 +1,9 @@
 ## Hello to my GitHub profile!🫶🏻
 
-## ML/DS Developer🤖
+## ML/Backend Developer🤖
 
 # My stack
-- Python
-- Jupyter Notebook
-- Scikit-learn, PyTorch, TensorFlow
-- PostgreSQL, SQLite, SQLAlchemy
-- Git
+Python, FastAPI, aiogram, PyTorch, OpenAI API, GigaChat, YandexGPT, DeepSeek, LangChain, LangGraph, LangFuse, RAG, MongoDB, Redis, RabbitMQ, Weaviate, Docker, Prometheus, Grafana, asyncio, n8n, Make
 
 # My Leetcode Stats
  
